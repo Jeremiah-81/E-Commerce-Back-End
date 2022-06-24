@@ -38,7 +38,10 @@ Product.init(
     category_id: {
       type: DataTypes.INTEGER,
       //references the category model's id
-      // ??????????????
+      references: {
+        model: 'category',
+        key: 'id',
+      },
     },
   },
   {
@@ -51,3 +54,13 @@ Product.init(
 );
 
 module.exports = Product;
+
+
+
+// user_id: {
+//   type: DataTypes.INTEGER,
+//   references: {
+//     model: 'user',
+//     key: 'id',
+//   },
+// },

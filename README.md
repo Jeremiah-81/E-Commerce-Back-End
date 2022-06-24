@@ -1,5 +1,6 @@
 # E-Commerce-Back-End
 
+This is the code for the back end of an application created for an E-Commerce webpage.
 
 ## Motivation
 

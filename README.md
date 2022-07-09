@@ -16,11 +16,23 @@ https://raw.githubusercontent.com/Jeremiah-81/E-Commerce-Back-End/main/Assets/13
 
 ## Tech/Framework
 
+mysql2
+
+sequelize
+
+dotenv
+
 ## How to use
+
+how to use here:
 
 ## Features
 
+This gives you the ability to find out what you have in stock and what you need to order in a single application without having to check manually or having multiple files open. 
+
 ## Walkthrough Video
+
+Link here:
 
 ## Credit
 
